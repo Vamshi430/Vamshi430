@@ -14,7 +14,7 @@ B.Tech in ECE, BVRIT Narsapur.
 
 - **Battery digital twin** - L&T Techgium 2025, runner-up. LSTM state-of-charge prediction, 95% match between twin and hardware, and a mode that fuses real and simulated data.
 - **Level-3 autonomous car** - NXP AIM 2024, finalist. LIDAR + camera fusion, lane following, YOLO sign recognition on NXP NavQ+ with ROS. [Simulation code](https://github.com/Vamshi430/NXP-CODES)
-- **Smart fogponics** - TIH ATMAN 2.0, finalist. IoT mist-nutrient system with pH, TDS and humidity sensing, pitched at IIT Bombay. [Code](https://github.com/Vamshi430/Smart-fogponics-system)
+- **Smart fogponics** - TIH ATMAN 2.0, finalist. IoT mist-nutrient system with pH, TDS and humidity sensing, pitched at IIT Bombay.
 - **Combat robot** - IIT Bombay Techfest 2023. Fusion 360 design, CNC-fabricated parts, RF + ESC wireless control.
 - **ecelab.me** - practice platform for ECE students that I built and run. Its Linux terminal boots a real Buildroot kernel in the browser. [Source](https://github.com/Vamshi430/ecelab-linux-cli-buildroot)
 
