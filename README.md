@@ -1,7 +1,7 @@
 ## Bellam Vamshi Krishna
 
 Founding engineer at [The Robot Company](https://www.therobotcompany.ai/), building robots for real-world deployments.
-B.Tech in ECE, BVRIT Narsapur.
+Electronics and Communication Engineering graduate.
 
 ### Work
 
