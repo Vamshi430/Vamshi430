@@ -21,7 +21,7 @@ Electronics and Communication Engineering graduate.
 | Role | Company | Period |
 |:--|:--|:--|
 | **Founding Engineer** | The Robot Company | 2026&nbsp;‑&nbsp;Present |
-| **Robotics Engineer** | Peepul Agri | Sep&nbsp;2025&nbsp;‑&nbsp;Dec&nbsp;2025 |
+| **Robotics Engineer Intern** | Peepul Agri | Sep&nbsp;2025&nbsp;‑&nbsp;Dec&nbsp;2025 |
 | **Embedded and Electrical Intern** | Cortex N Grey, IIT Hyderabad | Jan&nbsp;2025&nbsp;‑&nbsp;Jul&nbsp;2025 |
 | **Product Design Intern** | Center for Health Care Entrepreneurship, IIT Hyderabad | Mar&nbsp;2024&nbsp;‑&nbsp;Sep&nbsp;2024 |
 
